@@ -16,7 +16,7 @@ user_params = {
     "notMinor": "yes",
 }
 
-# response = requests.post(url=pixela_end,json=user_params)
+# response = requests.post(url=pixela_end,json=user_paramss)
 # print(response.text)  
 
 graph_endpoint = f"{pixela_end}/{username}/graphs"
