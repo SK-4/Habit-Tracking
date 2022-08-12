@@ -5,8 +5,8 @@ from datetime import datetime
 x =datetime.now().strftime("%Y%m%d")
 
 username = "sohamk"
-Token = "jfkjodo43849ief"
-pixela_end = "https://pixe.la/v1/users"
+Token = "Your_Token"
+pixela_end = "Your_End"
 Graph_Id = "graph7"
 
 user_params = {
